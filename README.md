@@ -4,6 +4,7 @@
 
 This project consists of navigating an agent through an environment composed of yellow and blue bananas. The agent gets a reward of +1 when collecting a yellow banana and a reward of -1 when collecting a blue banana.
 The state of the agent is continuous composed of 37 dimensions. Whereas the action space is discrete composed of 4 actions.
+The environment is considered solved when the average score is 13 over 100 episodes.
 
 ## Repository structure
 

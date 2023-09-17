@@ -11,6 +11,7 @@ The environment is considered solved when the average score is 13 over 100 episo
 This repository is composed of:
 - Navigation.ipynb: A notebook containing the all the project code
 - checkpoint.pth: the model weights
+- report.pdf: the project report
 
 ## Getting started
 
